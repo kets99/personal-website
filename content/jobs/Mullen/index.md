@@ -1,12 +1,12 @@
 ---
-date: '2015-12-21'
-title: 'Creative Technologist Co-op'
-company: 'MullenLowe'
-location: 'Boston, MA'
-range: 'July - December 2015'
-url: 'https://us.mullenlowe.com/'
+title: 'Associate Security Analyst'
+company: 'Wolters Kluwer'
+location: 'Chennai, India'
+range: 'October 2020 - January 2021'
 ---
 
-- Developed, maintained, and shipped production code for client websites primarily using HTML, CSS, Sass, JavaScript, and jQuery
-- Performed quality assurance tests on various sites to ensure cross-browser compatibility and mobile responsiveness
-- Clients included JetBlue, Lovesac, U.S. Cellular, U.S. Department of Defense, and more
+- Leading, investigating and bringing to resolution security incidents as they are escalated or identified
+- Forensically analyze end-user systems and servers found to have possible indicators of compromise
+- Work on the development of processes and procedures to improve incident response times, analysis of incidents, and overall
+SOC functions
+- Coordinating with senior stakeholders & executives during the management of critical security incidents
